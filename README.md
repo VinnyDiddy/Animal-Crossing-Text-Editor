@@ -17,6 +17,8 @@ so please bare that in mind when reading this, I'm not a smart coder or
 anything. But here's the phrases I've been using when it comes to making
 little edits to the dialogue.
 
+# If you're going to edit the text, please be sure to replace the message_data.bin AND message_data_table.bin, the game will bug out if you do not do this.
+
 	<Pause [amount]>
   This is simply the pauses inbetween words, I think it goes off of the amount frames, but I don't know...
   I typically use around 6-12 when pausing inbetween words.
