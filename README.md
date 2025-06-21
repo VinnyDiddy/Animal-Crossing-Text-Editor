@@ -68,4 +68,55 @@ Using in game
 - open the game's ISO
 - replace forest_2nd.arc with the new exported one.
 - export a new ISO
-  	Boom bang pow, Luuji, you're the monster now :)
+- Boom bang pow, Luuji, you're the monster now :)
+
+# An Example
+	Hey,<Pause [5]> friend.<Press A>
+	Finaly moving out,<Pause [6]> huh?<Pause [15]>
+	Gonna<Pause [4]> get your own place and<Pause [4]>
+	see the world?<Press A>
+	<Clear Text>That's real groovy, friend.<Press A>
+	Who needs someone<Pause [4]> telling you
+	what you<Pause [4]> can and<Pause [4]> can't
+	do<Pause [4]> all the time.<Press A>
+	<Clear Text>You can do<Pause [6]>
+	what<Pause [6]> you want,<Pause [6]>
+	when<Pause [6]> you want,<Pause [6]>
+	wherever<Pause [6]> you want.<Press A>
+	<Clear Text>Yeah, being free like that,
+	it's all rea<Pause [4]>a<Pause [4]>a<Pause [4]>l<Pause [4]>l<Pause [4]>y groo<Pause [4]>o<Pause [4]>o<Pause [4]>vy.<Press A>
+	<Clear Text>But livin' on your own<Pause [6]>
+	is such a drag,<Pause [6]> too.<Press A>
+	Some say<Pause [4]> it gets<Pause [4]> really
+	blue out there.<Pause [4]>.<Pause [4]>.<Pause [4]><Press A>
+	<Clear Text>But,<Pause [4]> if you've got some
+	tight friends<Pause [4]> to chill out with,<Pause [4]>
+	then it'll all work out<Pause [4]>
+	seamlessly.<Press A>
+	<Clear Text>So... I guess I can
+	finally ask you this.<Pause [4]>.<Pause [4]>.<Pause [4]>
+	Are you ready to ride the rails?<Press A>
+	Well<Pause [4]> I've forgotten how to<Pause [4]> add the
+	question into the menu, so<Pause [4]>.<Pause [4]>.<Pause [4]>.<Pause [4]>
+	I'm just gonna end the<Pause [4]>
+	conversation<Pause [4]> now.<Press A>
+	<Clear Text>Catch ya later, friend.<Press A>
+	<Clear Text>Nevermind, I'll steal it
+	from the same file by
+	copying the text I created...<Press A>
+	<Clear Text>Clicking on the searched
+	file on the search list.<Press A>
+	<Clear Text>Selecting the text I don't
+	want anymore, or the text I'm
+	changing up.<Press A>
+	<Clear Text>Of course, without
+	removing the Set 2 Choices thing.<Press A>
+	<Clear Text>Then pasting this text
+	onto it! Yipee!<Press A>
+	So.<Pause [6]>.<Pause [6]>.<Pause [6]>
+	Let me ask you<Pause [6]> one<Pause [6]> more<Pause [6]> time.<Press A>
+	<Clear Text><Expression [Wondering (Sitting)]>Are you ready to ride the
+	rails and go on a new
+	adventure?<Set 2 Choices [006E] [006F]><Press A><Open Choice Selection Menu><Choice #1 MessageId [09C9]><Choice #2 MessageId [09DB]><Force Dialog Switch>
+	<Continue to Next Dialog>
+ For those looking for the entry, its Entry 9C7 offset 73FA2
