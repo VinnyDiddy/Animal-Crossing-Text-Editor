@@ -96,7 +96,7 @@ Using in game
 	<Clear Text>So... I guess I can
 	finally ask you this.<Pause [4]>.<Pause [4]>.<Pause [4]>
 	Are you ready to ride the rails?<Press A>
-	Well<Pause [4]> I've forgotten how to<Pause [4]> add the
+	<Clear Text>Well<Pause [4]> I've forgotten how to<Pause [4]> add the
 	question into the menu, so<Pause [4]>.<Pause [4]>.<Pause [4]>.<Pause [4]>
 	I'm just gonna end the<Pause [4]>
 	conversation<Pause [4]> now.<Press A>
@@ -115,7 +115,7 @@ Using in game
 	onto it! Yipee!<Press A>
 	So.<Pause [6]>.<Pause [6]>.<Pause [6]>
 	Let me ask you<Pause [6]> one<Pause [6]> more<Pause [6]> time.<Press A>
-	<Clear Text><Expression [Wondering (Sitting)]>Are you ready to ride the
+	<Clear Text><Expression [Wondering (K.K.)]>Are you ready to ride the
 	rails and go on a new
 	adventure?<Set 2 Choices [006E] [006F]><Press A><Open Choice Selection Menu><Choice #1 MessageId [09C9]><Choice #2 MessageId [09DB]><Force Dialog Switch>
 	<Continue to Next Dialog>
